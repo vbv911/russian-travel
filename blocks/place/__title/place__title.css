@@ -28,6 +28,6 @@
           width: calc(100% - 32px);
           font-size: 32px;
           line-height: 35px;
-          margin: 0 16px 0 16px
+          margin: 0 16px 0 16px;
         }
     }
