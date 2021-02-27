@@ -1,17 +1,19 @@
 .cover__subtitle {
     z-index: 2;
     color: #ffffff;
-    width: 360px;
+    max-width: 360px;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
+    margin-top: 32px;
     
   }
   @media screen and (max-width: 600px) {
     .cover__subtitle {
     margin: 16px 16px 33px 16px;
     width: calc(100% - 32px);
+    
     }
     }

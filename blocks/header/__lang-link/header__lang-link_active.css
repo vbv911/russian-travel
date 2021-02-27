@@ -3,4 +3,6 @@
     color: #ffffff;
     font-weight: normal;
   }
-  
+  .header__lang-link_active:hover {
+    opacity: 0.8;
+  }

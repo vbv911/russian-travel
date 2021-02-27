@@ -1,12 +1,14 @@
 .cover__title {
     z-index: 2;
     color: #ffffff;
-    width: 560px;
+    max-width: 560px;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     text-align: center;
+    margin: 0;
+    
     }
     @media screen and (max-width: 600px) {
         .cover__title {

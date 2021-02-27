@@ -3,15 +3,8 @@
     flex-direction: row;
     justify-content: space-between;
     width: calc(100% - 96px);
-    height: 52px;
     margin: 28px 48px 0 48px;
     align-items: center;
-  }
-  @media screen and (max-width: 1025px) {
-    .header {
-      width: calc(100% - 96px);
-      margin-top: 28px;
-    }
   }
   @media screen and (max-width: 769px) {
     .header {
