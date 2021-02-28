@@ -1,6 +1,6 @@
 .place__title {
     grid-area: title;
-    font-family: Inter;
+    font-family: 'Inter', Arial, Helvetica, sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
@@ -28,6 +28,6 @@
           width: calc(100% - 32px);
           font-size: 32px;
           line-height: 35px;
-          margin: 0 16px 0 16px;
+          margin: 0;
         }
     }
